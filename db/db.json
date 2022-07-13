@@ -1,0 +1,69 @@
+{
+  "ingredientes": {
+    "quantidades": [
+      {
+        "id": 1,
+        "tipo": "1"
+      },
+      {
+        "id": 2,
+        "tipo": "2"
+      },
+      {
+        "id": 3,
+        "tipo": "3"
+      },
+      {
+        "id": 4,
+        "tipo": "4"
+      },
+      {
+        "id": 5,
+        "tipo": "5"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "tipo": "React"
+      },
+      {
+        "id": 2,
+        "tipo": "Vue"
+      },
+      {
+        "id": 3,
+        "tipo": "Angular"
+      }
+    ],
+    "pagamentos": [
+      {
+        "id": 1,
+        "tipo": "Cartão de crédito"
+      },
+      {
+        "id": 2,
+        "tipo": "Boleto"
+      },
+      {
+        "id": 3,
+        "tipo": "Pix"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Saiu pra entrega"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "pedidos": []
+}
