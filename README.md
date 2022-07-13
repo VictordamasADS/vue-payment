@@ -1,4 +1,4 @@
-# projeto_vue
+# vue-payment
 
 ## Project setup
 ```
@@ -8,7 +8,7 @@ npm i vue
 
 npm install -g @vue/cli
 
-vue create projeto_vue
+vue create vue-paymemt
 
 ```
 
